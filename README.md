@@ -1,7 +1,7 @@
 # master_thesis
 Master thesis - Predictive Identification of Android Malware through Hybrid Analysis
 
-**Abstract**
+**Abstract**<br>
 With a still increasing amount of mobile devices running the mobile operating system *Android*,
 their extensive usage and various application possibilities, those 
 devices have become valuable targets for malicious apps. <br>
@@ -24,7 +24,7 @@ The classification of both hybrid approaches and the clustering were applied to 
 The prediction of unknown malware results in an accuracy of approximately 90%. 
 The clustering approach reveals 30 clusters with different malware labels.
 
-**Kurzfassung**
+**Kurzfassung**<br>
 Die Verbreitung und Einsatzmöglichkeiten mobiler Endgeräte, die das mobile Betriebssystem *Android* nutzen, nimmt stetig zu. 
 Die Geräte erweisen sich als wertvolle Ziele für Malware, die in Form von Apps auf das Gerät gelangen. <br>
 Wissenschaftler haben ausgereifte statische und dynamische Analyseverfahren entwickelt, um Einblicke 
